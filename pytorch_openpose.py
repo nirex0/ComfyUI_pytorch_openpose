@@ -736,7 +736,7 @@ class pytorch_openpose:
     RETURN_NAMES = ("Pose Image",)
     OUTPUT_NODE = True
     FUNCTION = "sample"
-    CATEGORY = "Nirex"
+    CATEGORY = "Hzzone"
 
     def sample(self,image):
         

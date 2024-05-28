@@ -24,5 +24,5 @@ cd ComfyUI_pytorch_openpose
 body_pose_model.pth
 hand_pose_model.pth
 ```
-3. Use in ComfyUI
+3. Use in ComfyUI under Hzzone>pytorch_openpose menu
 
