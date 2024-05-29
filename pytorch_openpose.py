@@ -747,4 +747,6 @@ class pytorch_openpose:
             output_image, _ = process_one (input_image)  
             img = pil2tensor(output_image) 
             results.append(img)
+            # return img
         return (torch.cat(results, dim=0),)
+        
