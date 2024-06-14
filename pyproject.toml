@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_pytorch_openpose"
+description = "All Credits go to the original Repo: [a/Hzzone/pytorch-openpose](https://github.com/Hzzone/pytorch-openpose)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/nirex0/ComfyUI_pytorch_openpose"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_pytorch_openpose"
+Icon = ""
